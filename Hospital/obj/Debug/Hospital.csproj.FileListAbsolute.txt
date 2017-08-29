@@ -1,0 +1,6 @@
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Hospital\bin\Debug\Hospital.exe
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Hospital\bin\Debug\Hospital.pdb
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Hospital\obj\Debug\Hospital.exe
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Hospital\obj\Debug\Hospital.pdb

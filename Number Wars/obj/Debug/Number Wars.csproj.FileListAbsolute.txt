@@ -1,0 +1,6 @@
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Number Wars\bin\Debug\Number Wars.exe.config
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Number Wars\bin\Debug\Number Wars.exe
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Number Wars\bin\Debug\Number Wars.pdb
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Number Wars\obj\Debug\Number Wars.csprojResolveAssemblyReference.cache
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Number Wars\obj\Debug\Number Wars.exe
+C:\Users\HOME\documents\visual studio 2015\Projects\CSharpAdv_Ex_250617\Number Wars\obj\Debug\Number Wars.pdb
