@@ -18,6 +18,7 @@ public class Program
 
     public static void Main()
     {
+        //90 points
         double damageToHagan = double.Parse(Console.ReadLine());
         double playerCurrentPoints = PlayerStartPoints;
         double haganCurrentPoints = HaganStartPoints;
@@ -58,26 +59,20 @@ public class Program
                     {
                         case "up":
                             --playerCurrentRow;
-                          //haganCurrentPoints -= damageToHagan;
                             break;
                         case "right":
                             ++playerCurrentCol;
-                           //haganCurrentPoints -= damageToHagan;
                             break;
                         case "down":
                             ++playerCurrentRow;
-                           //haganCurrentPoints -= damageToHagan;
                             break;
                         case "left":
                             --playerCurrentCol;
-                          //haganCurrentPoints -= damageToHagan;
                             break;
                     }
                 }
                 else
                 {
-                   //haganCurrentPoints -= damageToHagan;
-
                     if (haganCurrentPoints > 0)
                     {
                         if (spell == "Cloud")
@@ -98,10 +93,7 @@ public class Program
                     }
                 }
             }
-            else
-            {
-                //haganCurrentPoints -= damageToHagan;
-            }
+           
         }
 
         if (playerCurrentPoints <= 0)
