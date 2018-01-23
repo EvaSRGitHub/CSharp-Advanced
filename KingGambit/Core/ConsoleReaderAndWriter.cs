@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KingsGambit
+{
+    public class ConsoleReaderAndWriter : IReader, IWriter
+    {
+        public string Reader()
+        {
+            return Console.ReadLine();
+        }
+
+        public void Writer(string output)
+        {
+            Console.WriteLine(output);
+        }
+    }
+}
